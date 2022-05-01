@@ -1,0 +1,1 @@
+A Full Stack Next JS,MongoDB,Redux App To Book Room With Admin Panel to Handle Bookings, Rooms and Users. In this App I have used Stripe, Webhook as Payment Integration and Cloudinary as Cloud storage.This App is completely made using Next JS both in frontend and backend.
