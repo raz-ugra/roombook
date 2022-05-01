@@ -17,7 +17,7 @@ module.exports = {
         SMTP_PASSWORD: "kwjoyehfmxzzzugo",
         SMTP_FROM_EMAIL: "harshitrathi200105@gmail.com",
         SMTP_FROM_NAME: "Harshit Rathi",
-        NEXTAUTH_URL: "https://roombook.vercel.app/",
+        NEXTAUTH_URL: "https://roombookapp.azurewebsites.net/",
     },
     images: {
         domains: ['res.cloudinary.com'],
